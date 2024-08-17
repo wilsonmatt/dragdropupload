@@ -1,9 +1,0 @@
-
-node_modules
-
-.DS_STORE
-/dist/
-*.log
-
-# Ignore cache created with the Angular CLI.
-.angular/
