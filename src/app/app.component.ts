@@ -13,7 +13,7 @@ import { PreviewComponent } from './components/preview/preview.component';
       @defer (on viewport) {
       <!-- <preview [previewTemplate]="imagePreviewTemplate" [images]="images()"> -->
       <preview [images]="images()">
-        <h3 class="text-center">Beautiful Draggable Images Preview</h3>
+        <h3 class="text-center">Image Preview</h3>
         <ng-template #imagePreviewTemplate let-title let-name="name">
           <div class="text-center">
           <h2>{{title}}</h2>
