@@ -9,6 +9,7 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
+    "deploy": "./node_modules/gh-pages/bin/gh-pages-clean.js && gh-pages -d build",
     "watch": "ng build --watch --configuration development",
     "test": "echo \"Error: no test specified\" && exit 1",
     "serve:ssr:drag-drop-upload-app": "node dist/drag-drop-upload-app/server/server.mjs"
