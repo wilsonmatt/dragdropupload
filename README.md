@@ -1,4 +1,4 @@
-# Drag Drop Upload App
+# Drag Drop Upload App 2024
 
 ## Overview
 This app is an Angular 18 application designed to provide a seamless and interactive experience for uploading and previewing images. 
